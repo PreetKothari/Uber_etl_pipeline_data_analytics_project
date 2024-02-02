@@ -6,6 +6,8 @@ The goal of this project is to perform data analysis on NYC Uber Taxi data using
 
 ### Architecture
 
+![Project Architecture](https://github.com/PreetKothari/Uber_etl_pipeline_data_analytics_project/assets/87279526/a2b53266-7fbf-4b46-83e9-49420be491c0)
+
 ### Technology Used
 
 Programming Language: 
@@ -19,7 +21,7 @@ Google Cloud Platform:
 Modern Data Pipeine Tool:
   - Mage: https://www.mage.ai/
 
-Contribute to this open source project - https://github.com/mage-ai/mage-ai
+Contribute to this open-source project - https://github.com/mage-ai/mage-ai
 
 ### Dataset Used
 
